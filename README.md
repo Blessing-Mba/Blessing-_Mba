@@ -1,4 +1,4 @@
-# GITHUB_USERNAME
+# Blessing_Mba
 Hey, I'm Blessing, a social bird, foodie and a fashionista
 I'm a frontend developer, proficient in HTML5,CSS3 and Javascript.
 I love interacting with people and making noise everywhere I go,
